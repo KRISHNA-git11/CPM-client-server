@@ -1,4 +1,4 @@
-# Kevin's React + Django + PostgreSQL app template
+
 
 ![Image](https://user-images.githubusercontent.com/11501902/169211080-f0beca5a-ccb9-430a-8609-266e458d5ec0.png)
 
@@ -12,7 +12,7 @@
 - TypeScript (frontend language)
 - React (frontend framework)
   - Create React App (support for TSX, ES6, TypeScript, no need to install bundler, ...etc)
-  - An example fetch() GET request to the server in [`client/src/App.tsx`](https://github.com/kevinshen56714/create-react-django-app/blob/bb16565cff0d6d1d41a3d3f487f745b08d0a34f6/client/src/App.tsx#L11)
+  
 
 ### Backend
 
@@ -23,16 +23,12 @@
   - Python-decouple (to get env file content)
 - Django (backend framework)
   - Django REST Framework (Django's toolkit for building Web APIs)
-  - An example app in the [`server/exampleApp`](https://github.com/kevinshen56714/create-react-django-app/tree/main/server/exampleApp) folder showing how to setup API models, serializers, and views
 - PostgreSQL (database)
 
 ## Getting Started
 
 Clone this repository to your local machine:
 
-```bash
-$ git clone https://github.com/kevinshen56714/create-react-django-app.git
-```
 
 ### To run the client
 
